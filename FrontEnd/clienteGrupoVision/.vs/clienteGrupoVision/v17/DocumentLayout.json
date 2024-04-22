@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\views\\pokemon\\pokemonname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\views\\pokemon\\pokemonname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\views\\pokemon\\noaccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\views\\pokemon\\noaccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\models\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\models\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|c:\\users\\william\\source\\repos\\clientegrupovision\\clientegrupovision\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68367-2BF2-4B85-88EF-35ABF35866E6}|clienteGrupoVision\\clienteGrupoVision.csproj|solutionrelative:clientegrupovision\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pokemonName.cshtml",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\pokemonName.cshtml",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Views\\pokemon\\pokemonName.cshtml",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\pokemonName.cshtml",
+              "RelativeToolTip": "clienteGrupoVision\\Views\\pokemon\\pokemonName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:44:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoAccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\NoAccess.cshtml",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Views\\pokemon\\NoAccess.cshtml",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\NoAccess.cshtml",
+              "RelativeToolTip": "clienteGrupoVision\\Views\\pokemon\\NoAccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:19:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Program.cs",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Program.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Program.cs",
+              "RelativeToolTip": "clienteGrupoVision\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:58:08.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Views\\pokemon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Views\\pokemon\\Index.cshtml",
+              "RelativeToolTip": "clienteGrupoVision\\Views\\pokemon\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T06:31:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tokenjwt.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\tokenjwt.cs",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Models\\tokenjwt.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\tokenjwt.cs",
+              "RelativeToolTip": "clienteGrupoVision\\Models\\tokenjwt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:18:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\user.cs",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Models\\user.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\user.cs",
+              "RelativeToolTip": "clienteGrupoVision\\Models\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:48:35.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Controllers\\pokemonController.cs",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Controllers\\pokemonController.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Controllers\\pokemonController.cs",
+              "RelativeToolTip": "clienteGrupoVision\\Controllers\\pokemonController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:22:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\pokemon.cs",
+              "RelativeDocumentMoniker": "clienteGrupoVision\\Models\\pokemon.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\clienteGrupoVision\\clienteGrupoVision\\Models\\pokemon.cs",
+              "RelativeToolTip": "clienteGrupoVision\\Models\\pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:21:29.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

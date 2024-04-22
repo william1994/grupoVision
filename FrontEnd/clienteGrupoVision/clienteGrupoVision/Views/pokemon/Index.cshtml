@@ -1,0 +1,21 @@
+﻿@model clienteGrupoVision.Models.pokemon
+<table border="0" class="table-striped">
+    <thead>
+        <tr>
+        <td>Habilidades</td>
+    </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.Abilities)
+        {
+            <tr>
+                <td>@item</td>
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    string o = Model.Url;
+}
+<img src="@o" />

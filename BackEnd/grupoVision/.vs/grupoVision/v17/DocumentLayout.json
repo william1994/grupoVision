@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\source\\repos\\grupoVision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\pokemondata\\pokemonviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\pokemondata\\pokemonviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\interface\\ipokemonviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\interface\\ipokemonviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\usecase\\usecasepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\usecase\\usecasepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\interface\\iusecasepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\interface\\iusecasepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|c:\\users\\william\\source\\repos\\grupovision\\grupovision\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|solutionrelative:grupovision\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\httpclients\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\httpclients\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\autorizacion\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\autorizacion\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\interface\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\interface\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|c:\\users\\william\\source\\repos\\grupovision\\grupovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|solutionrelative:grupovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|c:\\users\\william\\source\\repos\\grupovision\\grupovision\\grupovision.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|solutionrelative:grupovision\\grupovision.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|c:\\users\\william\\source\\repos\\grupovision\\grupovision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{456D01B0-6EBB-4831-B567-50274E04C5DB}|grupoVision\\grupoVision.csproj|solutionrelative:grupovision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\dto\\dataex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\dto\\dataex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\mapping\\profiles\\pokemonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\mapping\\profiles\\pokemonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\mapping\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\mapping\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\dto\\pokemondatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\dto\\pokemondatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\dto\\pokemonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\dto\\pokemonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\repositories\\models\\response\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\repositories\\models\\response\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|c:\\users\\william\\source\\repos\\grupovision\\core\\dto\\imageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97B3959-A6BC-4C61-A6DF-610338B4EE33}|Core\\Core.csproj|solutionrelative:core\\dto\\imageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|c:\\users\\william\\source\\repos\\grupovision\\infraestructura\\configuration\\dependecyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF69D7-802B-40BB-BFCF-C556F10BE6B4}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\configuration\\dependecyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Autorizacion\\AutorizacionService.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\Autorizacion\\AutorizacionService.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Autorizacion\\AutorizacionService.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\Autorizacion\\AutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:59:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\httpClients\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\httpClients\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\httpClients\\Pokemon.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\httpClients\\Pokemon.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:56:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "grupoVision\\Controllers\\userController.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\Controllers\\userController.cs",
+              "RelativeToolTip": "grupoVision\\Controllers\\userController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwDEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:47:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "useCasePokemon.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\UseCase\\useCasePokemon.cs",
+              "RelativeDocumentMoniker": "Core\\UseCase\\useCasePokemon.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\UseCase\\useCasePokemon.cs",
+              "RelativeToolTip": "Core\\UseCase\\useCasePokemon.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:42:54.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUseCasePokemon.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IUseCasePokemon.cs",
+              "RelativeDocumentMoniker": "Core\\Interface\\IUseCasePokemon.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IUseCasePokemon.cs",
+              "RelativeToolTip": "Core\\Interface\\IUseCasePokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:44:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonViewData.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\PokemonData\\PokemonViewData.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\PokemonData\\PokemonViewData.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\PokemonData\\PokemonViewData.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\PokemonData\\PokemonViewData.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwBgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:19:25.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPokemonViewData.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IPokemonViewData.cs",
+              "RelativeDocumentMoniker": "Core\\Interface\\IPokemonViewData.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IPokemonViewData.cs",
+              "RelativeToolTip": "Core\\Interface\\IPokemonViewData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:41:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IAutorizacionService.cs",
+              "RelativeDocumentMoniker": "Core\\Interface\\IAutorizacionService.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Interface\\IAutorizacionService.cs",
+              "RelativeToolTip": "Core\\Interface\\IAutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:59:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\Program.cs",
+              "RelativeDocumentMoniker": "grupoVision\\Program.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\Program.cs",
+              "RelativeToolTip": "grupoVision\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:05:54.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\appsettings.json",
+              "RelativeDocumentMoniker": "grupoVision\\appsettings.json",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\appsettings.json",
+              "RelativeToolTip": "grupoVision\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T05:06:09.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "grupoVision",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\grupoVision.csproj",
+              "RelativeDocumentMoniker": "grupoVision\\grupoVision.csproj",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\grupoVision\\grupoVision.csproj",
+              "RelativeToolTip": "grupoVision\\grupoVision.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T05:13:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infraestructura",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Infraestructura.csproj",
+              "RelativeDocumentMoniker": "Infraestructura\\Infraestructura.csproj",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Infraestructura.csproj",
+              "RelativeToolTip": "Infraestructura\\Infraestructura.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T05:14:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T05:14:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PokemonDto.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\PokemonDto.cs",
+              "RelativeDocumentMoniker": "Core\\Dto\\PokemonDto.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\PokemonDto.cs",
+              "RelativeToolTip": "Core\\Dto\\PokemonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:18:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dataEx.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Dto\\dataEx.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\Dto\\dataEx.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Dto\\dataEx.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\Dto\\dataEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:40:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PokemonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Mapping\\Profiles\\PokemonProfile.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Mapping\\Profiles\\PokemonProfile.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Mapping\\Profiles\\PokemonProfile.cs",
+              "RelativeToolTip": "Infraestructura\\Mapping\\Profiles\\PokemonProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:20:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\userRepo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\userRepo\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\userRepo\\UserRepository.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\userRepo\\UserRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:20:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Mapping\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Mapping\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Mapping\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "Infraestructura\\Mapping\\Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:59:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PokemonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Response\\PokemonResponse.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\Response\\PokemonResponse.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Response\\PokemonResponse.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\Response\\PokemonResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:13:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PokemonDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Dto\\PokemonDataDto.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositories\\Models\\Dto\\PokemonDataDto.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Repositories\\Models\\Dto\\PokemonDataDto.cs",
+              "RelativeToolTip": "Infraestructura\\Repositories\\Models\\Dto\\PokemonDataDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:02:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PokemonResponsedto.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\PokemonResponsedto.cs",
+              "RelativeDocumentMoniker": "Core\\Dto\\PokemonResponsedto.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\PokemonResponsedto.cs",
+              "RelativeToolTip": "Core\\Dto\\PokemonResponsedto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:25:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImageResponsedto.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\ImageResponsedto.cs",
+              "RelativeDocumentMoniker": "Core\\Dto\\ImageResponsedto.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Core\\Dto\\ImageResponsedto.cs",
+              "RelativeToolTip": "Core\\Dto\\ImageResponsedto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:25:42.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependecyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Configuration\\DependecyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Configuration\\DependecyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\grupoVision\\Infraestructura\\Configuration\\DependecyInjectionConfig.cs",
+              "RelativeToolTip": "Infraestructura\\Configuration\\DependecyInjectionConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:52:08.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

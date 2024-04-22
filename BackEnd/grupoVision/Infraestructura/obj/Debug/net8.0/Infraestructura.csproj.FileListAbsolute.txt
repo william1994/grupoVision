@@ -1,0 +1,17 @@
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Core.dll
+C:\Users\William\source\repos\grupoVision\Infraestructura\bin\Debug\net8.0\Core.pdb
+C:\Users\William\source\repos\grupoVision\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
